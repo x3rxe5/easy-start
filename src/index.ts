@@ -1,3 +1,3 @@
-const greeter = (str: string): void => console.log(str);
+export const Greeter = (str: string): string =>  `Hello ${str}`;
 
-greeter('Hello world');
+
