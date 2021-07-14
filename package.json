@@ -1,5 +1,5 @@
 {
-  "name": "easy-start",
+  "name": "easy-start-project",
   "version": "1.0.0",
   "description": "A simple tool for creating projects",
   "main": "lib/index.js",
